@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/2f5863d1-75e6-46cf-9b48-b35b3adfbd66" />
 # 👋 Hi, I'm Florivindo Semedo Monteiro  
 ## 🚀 AI Expert • Product Builder • Creative Director • Music Producer
 
