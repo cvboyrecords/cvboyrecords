@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/9b9da905-d779-4d56-8b4b-480da27e7490" />
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/c11b0ebd-f911-4f37-bffb-77b9c16beb47" />
 # [🔗 Link para o Canal CV Boy Records Productions no YouTube](https://www.youtube.com/@cvboyrecords01)
 
 *AI Visual Expert | Product Builder | Creative Director | Content Factory Production*
