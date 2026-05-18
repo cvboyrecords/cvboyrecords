@@ -1,14 +1,7 @@
-
-
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/14ae8d17-9875-4c16-8821-07a7f9fda815" />
-
-
-
-
 # [🔗 Link para o Canal CV Boy Records Productions no YouTube](https://www.youtube.com/@cvboyrecords01)
 
 *AI Visual Expert | Product Builder | Creative Director | Content Factory Production*
-
 
 # 👋 Hi, I'm Florivindo Semedo Monteiro  
 ## 🚀 AI Expert • Product Builder • Creative Director • Music Producer
