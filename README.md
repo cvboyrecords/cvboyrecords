@@ -1,10 +1,10 @@
 
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/14ae8d17-9875-4c16-8821-07a7f9fda815" />
-# [🔗 Link para o Portfólio de Fotos e Vídeos (CV Boy Records)](C:\Users\Pc\Downloads\DESIGN AND COVERS)
 
-*AI Visual Expert | Photo & Video Production | Creative Director | Content Factory Production*
-(https://www.linkedin.com/in/florivindo-monteiro-15181b73/)
+
+
+
 # [🔗 Link para o Canal CV Boy Records Productions no YouTube](https://www.youtube.com/@cvboyrecords01)
 
 *AI Visual Expert | Product Builder | Creative Director | Content Factory Production*
