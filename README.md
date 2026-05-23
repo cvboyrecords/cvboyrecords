@@ -167,3 +167,28 @@ work together to create scalable impact and unforgettable brands.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+
+## Projetos Recentes
+
+# Portfolio: Projet Créatif LPT - Bordeaux
+Ce projet présente ma méthodologie de travail pour le nouveau magasin **Lunettes Pour Tous** à Bordeaux. Il illustre ma capacité à combiner l'Intelligence Artificielle avec une exécution graphique rigoureuse.
+
+## 🚀 Workflow de Production
+Le processus est structuré pour garantir la qualité et le respect de la charte graphique :
+1. **Prompt Engineering :** Optimisation des instructions IA pour coller à l'ADN LPT.
+2. **Post-Production :** Finalisation manuelle sur PhotoScape (gestion des contrastes, typographie).
+3. **Organisation :** Système de versioning strict pour éviter tout **overwrite** accidentel.
+
+## 🎥 Démonstration Technique
+Cliquez sur l'image ci-dessous pour voir la vidéo de démonstration complète sur Loom (détails sur la création, les prompts et les itérations) :
+
+[![Lien vers la vidéo Loom](https://github.com/cvboyrecords/cvboyrecords/blob/main/capa_projet_lpt.jpgz.jpg)](https://www.loom.com/share/089b9e729714448d9414550ba8eb81b0)
+
+## 🛠 Outils utilisés
+- **IA :** [Gemini, chatgpt,Kling,Midjourney/Firefly]
+- **Retouche :** PhotoScape
+- **Gestion :** Workflow optimisé pour la rapidité et la précision.
+
+---
+*Projet réalisé en conformité avec les standards de production visuelle.*
