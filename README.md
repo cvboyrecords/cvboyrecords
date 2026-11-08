@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="capa_projet_lpt.jpgz.jpg" alt="Florivindo Semedo Monteiro Banner" width="100%">
+  <a href="https://www.linkedin.com/in/florivindo-monteiro-15181b73/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@cvboyrecords01"><img src="https://img.shields.io/badge/YouTube-CV_Boy_Records-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.cvboyrecords.com"><img src="https://img.shields.io/badge/Flagship-cvboyrecords.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://digitalizagencia.cvboyrecords.com"><img src="https://img.shields.io/badge/Worldwide_Enterprise-Digitalizagência-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Digitalizagencia"></a>
 </p>
 
 <h1 align="center">⚡ Florivindo Semedo Monteiro</h1>
