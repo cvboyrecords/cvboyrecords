@@ -1,194 +1,70 @@
-<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/67679bed-ed55-4df4-a04d-76539e5733be" />
+<p align="center">
+  <img src="capa_projet_lpt.jpgz.jpg" alt="Florivindo Semedo Monteiro Banner" width="100%">
+</p>
 
-# [🔗 Link para o Canal CV Boy Records Productions no YouTube](https://www.youtube.com/@cvboyrecords01)
-
-*AI Visual Expert | Product Builder | Creative Director | Content Factory Production*
-
-# 👋 Hi, I'm Florivindo Semedo Monteiro  
-## 🚀 AI Expert • Product Builder • Creative Director • Music Producer
+<h1 align="center">⚡ Florivindo Semedo Monteiro</h1>
+<p align="center"><b>Senior AI Automation Engineer | Full-Stack Product Builder | Systems Architect</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Automation-Expert-black?style=for-the-badge&logo=openai&logoColor=gold" />
-  <img src="https://img.shields.io/badge/Product%20Builder-No--Code%20%26%20Low--Code-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative%20Director-CV%20BOY%20RECORDS-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Music%20Producer-Afrobeat%20%7C%20Zouk-gold?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/florivindo-monteiro-15181b73/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@cvboyrecords01"><img src="https://img.shields.io/badge/YouTube-Releases-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.cvboyrecords.com"><img src="https://img.shields.io/badge/Flagship-cvboyrecords.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://digitalizagencia.cvboyrecords.com"><img src="https://img.shields.io/badge/Singapore_Standard-Digitalizagência-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Digitalizagencia"></a>
 </p>
 
 ---
 
-# 💼 About Me
+## 🏛️ Executive Engineering Profile
 
-I specialize in Artificial Intelligence, business automation, and scalable digital product systems.  
-As a **Product Builder**, I design intelligent workflows and CRM architectures using modern **No-Code & Low-Code ecosystems**, combining automation, AI integration, and operational efficiency.
+Senior Systems Architect & AI Engineer specializing in enterprise automation, self-hosted infrastructure, and autonomous agent ecosystems. Expertise in bridging complex business operations with multi-tenant AI pipelines, zero-touch kiosks, and secure cloud orchestration.
 
-Alongside technology, I am also the **Creative Director & Music Producer** behind **CV BOY RECORDS PRODUCTIONS**, an independent creative label focused on cinematic branding, music production, and premium visual storytelling.
-
-My work connects:
-- ⚡ AI & Automation
-- 🎨 Creativity & Branding
-- 📈 Strategy & Business Growth
-- 🎬 Media Production & Innovation
+* **Autonomous AI Agents & Workflows:** Custom n8n workflow engineering, Typebot logic, Evolution API WhatsApp routing, Open-source LLM integration (Qwen/Wan), autonomous lead scoring.
+* **Enterprise Infrastructure & Security:** Self-hosted Linux VPS server orchestration (Docker, Traefik, Caddy reverse proxies), secure webhook ingestion, GDPR & privacy-first data handling.
+* **Frontend & System Engineering:** Modern responsive UI/UX (TypeScript, React, Tailwind CSS), dynamic i18n localization, automated client timezone detection.
 
 ---
 
-# 🧠 Technologies & Tools
+## 🌐 Live Production Ecosystems
 
-## 🤖 AI • Automation • Systems
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-GPT%20Solutions-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-AI%20Workflows-D97706?style=flat-square"/>
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-Microsoft-742774?style=flat-square&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-Workflow-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRM%20Architecture-Expert-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API%20Integrations-Automation-gold?style=flat-square"/>
-  <img src="https://img.shields.io/badge/No--Code-Builder-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Low--Code-Systems-EAB308?style=flat-square"/>
-</p>
-
-### 🔹 Core Expertise
-- AI Workflow Automation
-- CRM System Architecture
-- API Integrations
-- Business Process Optimization
-- Intelligent Dashboards
-- Sales & Marketing Automation
-- Scalable Digital Products
-- Operational Efficiency Systems
+| Platform | Domain | Focus Area | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **CV Boy Records Agency** | [cvboyrecords.com](https://www.cvboyrecords.com) | Official Flagship Agency & Digital Assets | HTML5, Tailwind, AI Video Production |
+| **Digitalizagência** | [digitalizagencia.cvboyrecords.com](https://digitalizagencia.cvboyrecords.com) | Singapore-Standard Autonomous Lead Capture | n8n Webhooks, i18n, Timezone Engine |
+| **Agenda Online SaaS** | [agenda-online.cvboyrecords.com](https://agenda-online.cvboyrecords.com) | Interactive Booking & Financial Automation | Multi-language UI, Google Sheets CRM |
 
 ---
 
-## 🎬 Creative • Media • Music Production
+## 📂 Featured Enterprise Projects & Case Studies
 
-<p>
-  <img src="https://img.shields.io/badge/Creative%20Direction-Cinematic-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CV%20BOY%20RECORDS-Productions-gold?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-Design-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF"/>
-  <img src="https://img.shields.io/badge/Canva-Branding-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Visuals-8K%20Cinematic-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Music%20Production-Afrobeat%20%7C%20Kompa%20%7C%20Zouk-gold?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Video%20Production-VFX%20%26%20Color%20Grading-black?style=flat-square"/>
-</p>
+### 1. 🤖 Autonomous Public & Enterprise Systems
+* **`praia-municipio-zerotouch-kiosk`** — Interactive text-to-speech & biometric simulator kiosk system built with TypeScript for local government administration.
+* **`global-port-ai-assistant-os`** — High-availability AI assistant operating layer for port logistics and maritime operations handling automated queries.
+* **`tribunal-digital-ai`** — Legal-tech automation engine for document parsing, case classification, and automated intake workflows.
 
-### 🔹 Creative Services
-- Premium Artist Branding
-- 8K Cinematic Cover Design
-- AI Music Video Production
-- Visual Storytelling
-- Motion Design
-- Social Media Visual Campaigns
-- Music Marketing Assets
-- High-End Creative Direction
+### 2. ⚡ Enterprise SaaS & Workforces
+* **`saas-agendamento-frontend`** — Multi-tenant booking portal with automated client timezone detection and instant CRM synchronization via Webhooks.
+* **`med-triage-manchester-ai`** — Medical triage assistant leveraging AI decision trees for client evaluation and priority queue routing.
+* **`auditoria-publica-cv`** — Responsive public transparency audit platform deployed on Vercel with clean UI architecture.
 
 ---
 
-# 🚀 Featured Projects
+## 🎨 Creative Direction & Multimedia Case Study
 
-## 🤖 AI Business Automation Suite
-
-An advanced business automation ecosystem combining:
-- n8n Workflows
-- AI Agents
-- CRM Automation
-- API Integrations
-- Operational Dashboards
-
-### Business Impact
-✔️ Reduced manual operations  
-✔️ Increased productivity  
-✔️ Scalable workflows  
-✔️ Faster business execution  
-✔️ Smarter customer management  
+### 📌 Project LPT (Lunettes Pour Tous) — Bordeaux Workflow
+* **Methodology:** Combined advanced prompt engineering with rigorous graphical execution to match brand guidelines.
+* **Technical Workflow:**
+  1. **Prompt Engineering:** Optimization of AI instructions for precise brand alignment.
+  2. **Post-Production:** Manual refinement using PhotoScape (contrast management, typography).
+  3. **Asset Governance:** Strict versioning control to prevent accidental overrides.
+* **Demonstration:** [Watch Full Loom Video Demonstration](https://www.loom.com/share/089b9e729714448d9414550ba8eb81b0)
 
 ---
 
-## 🎵 CV BOY RECORDS PRODUCTIONS
+## 🛠️ Technology Stack
 
-Independent creative label specialized in:
-- Music Production
-- Cinematic Branding
-- AI Video Production
-- Digital Artist Development
-- Premium Media Content
-
-### Specialties
-🎬 Ultra Cinematic 8K Covers  
-🎧 Afrobeat • Kompa • Zouk • Afro Love  
-🔥 Premium Visual Storytelling  
-📱 Streaming & Social Media Optimization  
-
----
-
-# 📊 Professional Vision
-
-Building next-generation digital ecosystems where:
-- Artificial Intelligence
-- Automation
-- Branding
-- Music
-- Creativity
-- Business Strategy
-
-work together to create scalable impact and unforgettable brands.
-
----
-
-# 🌍 Connect With Me
-
-<p>
-  <a href="mailto:cvboyrecords@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=gold"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-CV%20BOY%20RECORDS-gold?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-# ⚡ Philosophy
-
-> “Technology creates efficiency.  
-> Creativity creates emotion.  
-> Together, they build unforgettable brands.”
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-
-## Projetos Recentes
-
-# Portfolio: Projet Créatif LPT - Bordeaux
-Ce projet présente ma méthodologie de travail pour le nouveau magasin **Lunettes Pour Tous** à Bordeaux. Il illustre ma capacité à combiner l'Intelligence Artificielle avec une exécution graphique rigoureuse.
-
-## 🚀 Workflow de Production
-Le processus est structuré pour garantir la qualité et le respect de la charte graphique :
-1. **Prompt Engineering :** Optimisation des instructions IA pour coller à l'ADN LPT.
-2. **Post-Production :** Finalisation manuelle sur PhotoScape (gestion des contrastes, typographie).
-3. **Organisation :** Système de versioning strict pour éviter tout **overwrite** accidentel.
-
-## 🎥 Démonstration Technique
-Cliquez sur l'image ci-dessous pour voir la vidéo de démonstration complète sur Loom (détails sur la création, les prompts et les itérations) :
-
-[![Lien vers la vidéo Loom](https://github.com/cvboyrecords/cvboyrecords/blob/main/capa_projet_lpt.jpgz.jpg)](https://www.loom.com/share/089b9e729714448d9414550ba8eb81b0)
-
-## 🛠 Outils utilisés
-- **IA :** [Gemini, chatgpt,Kling,Midjourney/Firefly]
-- **Retouche :** PhotoScape
-- **Gestion :** Workflow optimisé pour la rapidité et la précision.
-
----
-*Projet réalisé en conformité avec les standards de production visuelle.*
+```text
+Backend & Orchestration  : n8n, Node.js, Express, Python, REST Webhooks API
+Frontend Frameworks     : TypeScript, React, Vite, Tailwind CSS, HTML5/ES6+
+DevOps & Linux Security  : Docker, Traefik, Caddy, Hostinger VPS, SSH Hardening
+Automations & CRM       : Evolution API (WhatsApp), Google Sheets API, Gmail API
+Media & Generative AI   : Open-Source AI Models (Qwen, Wan), Cubase, DaVinci Resolve
