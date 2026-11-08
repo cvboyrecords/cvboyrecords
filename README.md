@@ -82,3 +82,13 @@ Backend & Orchestration  : n8n, Node.js, Express, Python, REST Webhooks API, Goo
 DevOps & Cloud Security  : Docker, Traefik, Caddy, Hostinger VPS KVM, Linux Security Hardening
 Automations & Messaging : Evolution API (WhatsApp), Gmail API, Typebot Logic Engine
 Media & Design Tools    : Adobe Photoshop, PhotoScape, DaVinci Resolve, Blender, Cubase, Sonar
+
+---
+
+## 🎥 Live Video Demonstrations & Workflows (Loom Portfolio)
+
+Quer ver a engenharia em ação? Explore a minha biblioteca pública de demonstrações técnicas, arquitetura de sistemas e fluxos de automação ao vivo:
+
+👉 **[Aceder ao Portefólio Completo de Vídeos no Loom](https://www.loom.com/looms/videos)**
+
+*Demonstrações práticas de prompt engineering, integração de APIs n8n, interfaces de alta conversão em Tailwind CSS e arquitetura de agentes autónomos.*
